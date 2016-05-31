@@ -10,7 +10,7 @@
         android:id="@+id/ad_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        ads:adUnitId="ca-app-pub-0361534644858126/7580389175"
+        ads:adUnitId="ca-app-pub-5759599619143562/8758898539"
         ads:adSize="SMART_BANNER" />
 
 </LinearLayout>
